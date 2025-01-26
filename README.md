@@ -6,3 +6,4 @@ Tweak margin and padding
 Fix typo in README
 Remove unused imports
 Improve error handling
+Improve logging
