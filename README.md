@@ -12,3 +12,4 @@ Refactor core logic
 Add documentation
 Update configuration
 Refactor core logic
+Fix typo in README
