@@ -9,3 +9,4 @@ Improve error handling
 Improve logging
 Fix bug in feature X
 Refactor core logic
+Add documentation
