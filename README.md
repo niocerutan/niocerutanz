@@ -11,3 +11,4 @@ Fix bug in feature X
 Refactor core logic
 Add documentation
 Update configuration
+Refactor core logic
